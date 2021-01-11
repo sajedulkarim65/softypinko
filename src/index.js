@@ -1,8 +1,14 @@
+
+//
+
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import App from "./app/App";
 import reportWebVitals from './reportWebVitals';
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import "font-awesome/css/font-awesome.min.css";
+
+import "./assets/css/templatemo-softy-pinko.css";
 
 ReactDOM.render(
   <React.StrictMode>
